@@ -15,3 +15,8 @@
 > Project Status
 > Sources
 > Other Information
+
+links:
+[Write a Good Read Me](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+[Markdown.md Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
