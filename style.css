@@ -1,0 +1,11 @@
+* {
+    align-items: center;
+    flex: content;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.messageDisplay {
+    border: 3px;
+    border-color: black;
+}
