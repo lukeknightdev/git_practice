@@ -20,6 +20,7 @@ main {
     border-radius: 2rem;
     z-index: 2;
     backdrop-filter: blur(2rem);
+    display: flex;
 }
 
 .circle1, .circle2 {
@@ -41,3 +42,4 @@ main {
     bottom: 5%;
     left: 10%;
 }
+
