@@ -157,11 +157,11 @@ main {
     left: 18%;
 }
 
-.card-info, {
+/*.card-info, {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
+}*/
 
 .percentage {
     font-weight: bold;
