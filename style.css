@@ -73,7 +73,7 @@ main {
     border-radius: 2rem;
 }
 
-.link {
+.link, #new-1 {
     display: flex;
     margin: 2rem 0rem;
     padding: 1rem 5rem;
@@ -157,7 +157,7 @@ main {
     left: 18%;
 }
 
-.card-info {
+.card-info, {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
