@@ -4,4 +4,33 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url(/DasmotoProject/images/pattern.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brush-head {
+    background-color: mediumspringgreen;
+}
+
+#frame-head {
+    background-color: lightcoral;
+}
+
+#paint-head {
+    background-color: skyblue;
+}
+
+#brush-text, #frame-text, #paint-text {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
 }
