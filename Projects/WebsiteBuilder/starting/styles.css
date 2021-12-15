@@ -1,0 +1,99 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0 10%;
+  }
+  
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+
+/* COLOR SECTION */
+.color-container {
+    width: 100%;
+}
+      
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    }
+      
+.torq-blue {
+    background-color: #6feeff;
+    color: black;
+}
+
+.pale-red {
+    background-color: #ff986f;
+    color: black;
+}
+
+.washed-yellow {
+    background-color: #ffe06f;
+    color: black;
+}
+
+.indigo {
+    background-color: #c16fff;
+    color: black;
+}
+
+/*FONT SECTION*/
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+  
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+  
+.regular {
+    font-style: normal;
+}
+  
+.semi-bold {
+    font-weight: 600;
+}
+  
+.bold {
+    font-weight: 700;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.source-sans-pro {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* TEXT SECTION */
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+  }
