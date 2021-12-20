@@ -116,13 +116,13 @@ h2 {
 } 
 
 .location-box-center {
-    
     position: absolute;
-    vertical-align: center;
+    align-items: center;
     top:100px;
     bottom: 100px;
     width: 25%;
-    right: 50%;
+    right: 100px;
+    left: 100px;
 }
 
 .location-title {
@@ -131,25 +131,15 @@ h2 {
     top: 40px;
     text-align: center;
 }
-/*
-height: 500px;
-width: 1200px;
-position: relative;
-padding: 20px 0 20px 0;
-justify-content: center;
-display: flex;
 
-position: absolute;
-background-color: black;
-width: 300px;
-margin: auto;
-vertical-align: center;
-justify-content: center;
-display: inline-block;
+/* CONTACT SECTION */
 
-position: absolute;
-    justify-content: center;
-    vertical-align: center;
-    padding-top: 20px;
+.contact {
+    padding: 25px;
+    height: 200px;
+    position: relative;
+}
 
-    */
+footer {
+    text-align: left;
+}
